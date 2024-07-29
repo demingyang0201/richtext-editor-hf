@@ -1,6 +1,6 @@
 {
   "name": "hf-richtext",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Default editor for Halo",
   "homepage": "https://github.com/halo-dev/halo/tree/main/ui/packages/editor#readme",
   "bugs": {
